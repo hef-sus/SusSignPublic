@@ -1,5 +1,4 @@
-# SusSignPublic
-
+SusSign plugin and SusAc Denizen Script
 Copyright (c) 2025 hef_sus  
 
 All rights reserved.  
