@@ -1,0 +1,12 @@
+# SusSignPublic
+
+Copyright (c) 2025 hef_sus  
+
+All rights reserved.  
+
+This software is licensed, not sold.  
+Permission is granted only to users who have obtained a valid license directly from hef_sus.  
+
+Any other use, including but not limited to redistribution, modification, sublicensing, leaking, or sharing in any form, is strictly prohibited.  
+
+Unauthorized use of this software is a violation of this license and may result in revocation of rights and/or legal action.  
